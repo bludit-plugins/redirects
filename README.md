@@ -1,8 +1,5 @@
 Redirects - Forwarding made easy
 ================================
-[![Bludit](https://s.pytes.me/07dc5062)](https://www.bludit.com)
-[![Version](https://s.pytes.me/21ab1e7d)](https://github.com/pytesNET/redirects/releases)
-[![Support Me](https://s.pytes.me/4a1717aa)](https://buymeacoffee.com/pytesNET)
 
 The Redirects plugin allows you to forward a slug / page to another one or to an external URL,
 the used HTTP Status can also be chosen. This extension also allows you to force the `https` 
@@ -13,20 +10,6 @@ Features
 -   **Forward** unlimitied slugs
 -   **Redirect** to external websites
 -   **Force** HTTPs everywhere on the frontend
-
-Support us with a Coffee
-----------------------------------
-<p align="center" style="text-align: center;">
-You can support us by giving us a coffee on
-</p>
-
-<p align="center" style="text-align: center;">
-<a href="https://www.buymeacoffee.com/pytesNET"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" title="Buy Me A Coffee" /></a>
-</p>
-
-<p align="center" style="text-align: center;">
-<b>Thanks for your support and for using our Redirects Plugin</b>
-</p>
 
 Requirements
 ------------
